@@ -1,3 +1,4 @@
+
 // Create a function based on the input and output. Look at the examples, there is a pattern.
 // Examples
 // secret("div*2") ➞ "<div></div><div></div>"
